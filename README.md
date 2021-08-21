@@ -1,6 +1,9 @@
 # buncombeNC
 Crime Data for Buncombe County NC
 
+Data analysis completed on Google Data Studio
+https://datastudio.google.com/s/qe87ch8aX_0
+
 Original data sourced from Aaron Sarver, Buncombe County Sheriff's Office, on 08/20/2021 via FOIA request
 
 Date range requested: 01/01/2019 to 06/30/2021
