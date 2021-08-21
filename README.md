@@ -20,6 +20,8 @@ Census data source: https://www.census.gov/quickfacts/fact/table/buncombecountyn
 Individual area data analysis completed on Google Data Studio
 https://datastudio.google.com/s/qe87ch8aX_0
 
+Data source was split to allow for NIBR sorting.  
+https://docs.google.com/spreadsheets/d/1nOSkNixRRUeysOB4TzPMev3UByYRJR3x2R-bUltBcRY/edit?usp=sharing
 
 ## How data was obtained
 Original data sourced from Aaron Sarver, Buncombe County Sheriff's Office, on 08/20/2021 via FOIA request
