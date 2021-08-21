@@ -1,9 +1,9 @@
 # buncombeNC
 Crime Data for Buncombe County NC
 
-This Problem Data set of Buncombe County contains information about the crime incidents that occurred within the unincorporated area.  We are going to analyze and visualize the data using Google Data Studio. Comparisons will be made to other counties that share geographic and/or population similarities (see group repo).  Geo spatial mapping is the term used to visualize data using maps for geographical understanding.  Geo spatial mapping is beyond the scope of this individual data set, however, will be further examined in group repo.
+This Problem Data subset of Buncombe County contains information about the crime incidents that occurred within the unincorporated area.  We are going to analyze and visualize the data using Google Data Studio. Comparisons will be made to other counties that share geographic and/or population similarities (see full group repo).  Geo spatial mapping is the term used to visualize data using maps for geographical understanding.  Geo spatial mapping is beyond the scope of this individual data set, however, will be further examined in full group repo.
 
-##Some facts
+## Some facts
 1. Buncombe County is located in the western part of North Carolina. 
 2. There are several incorporated municipalities within Buncombe County, the largest being Asheville, all with seperate law enforcement departments.
 3. The 2019 census reports the population of 261,191.
@@ -16,12 +16,12 @@ This Problem Data set of Buncombe County contains information about the crime in
 
 Census data source: https://www.census.gov/quickfacts/fact/table/buncombecountynorthcarolina,US/PST045219
 
-##Data analysis
+## Data analysis
 Individual area data analysis completed on Google Data Studio
 https://datastudio.google.com/s/qe87ch8aX_0
 
 
-##How data was obtained
+## How data was obtained
 Original data sourced from Aaron Sarver, Buncombe County Sheriff's Office, on 08/20/2021 via FOIA request
 
 Date range requested: 01/01/2019 to 06/30/2021
